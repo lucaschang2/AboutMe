@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Practical2</string>
+    <string name="myName">Chang Choon Sheng</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="profile_desc">
+        Education:\n
+        \n\tSJKC Chong Cheng, Kulim\n
+        \n\tSKM Chio Min, Kulim\n
+        \n\tTAR UC, Kuala Lumpur\n
+        \n\tNo working experience\n
+        \n\tI do not have any interest\n
+        \n\tSad life\n
+        \n\tPoor\n
+        \n\tDepress\n
+    </string>
+</resources>
